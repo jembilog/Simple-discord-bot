@@ -9,4 +9,8 @@ This is a beginner-friendly Python Discord bot that responds to simple commands 
 1. Install the required library:
 
 ```bash
-pip install discord.py
+pip install discord.py.
+
+
+Replace "YOUR_BOT_TOKEN_HERE" in bot.py with your actual bot token from the Discord Developer Portal.
+python bot.py
